@@ -10,7 +10,7 @@ I'm a Junior Full-Stack developer, and currently working at Tata Consultancy Ser
 - REST APIs in general
 
 ### Some of the most interesting non-commercial projects I've worked are:
-- Implementation of an artificial intelligence to detect the risk of wildfires in the brazilian municipality of Imperatriz/MA, using data from the National Institute of Meteorology and the National Institute of Space Research databases;
+- Implementation of an artificial intelligence to detect the risk of wildfires in the brazilian municipality of Imperatriz/MA, using data from the National Institute of Meteorology and the National Institute of Space Research databases - Paper: https://drive.google.com/file/d/1ZS400lfCegDFtC1PzDUBP4nlKuDH8wbO/view;
 - Development of a personal web application to track bills to pay (using Node.js and MongoDB, going to use React.js later);
 - Python scripts development to enable and/or ease the use of custom controllers and mouse mapping for some games (like flight simulators and racing games) - https://github.com/bnoleto/freePie_scripts;
 - Contributed with the OpenStreetMap community to map the city of Apucarana, Brazil;
