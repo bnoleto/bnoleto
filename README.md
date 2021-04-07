@@ -1,7 +1,6 @@
 ## Welcome to my profile! There are some info about me 🐱‍💻
 
-I'm a Junior Full-Stack developer, and currently working at Tata Consultancy Services Ltd. I have Bachelor's degree in Computer Science, at State University of Paraná (UNESPAR), Brazil.
-
+I'm a Full-Stack developer, and currently working at Tata Consultancy Services Ltd. I have Bachelor's degree in Computer Science, at State University of Paraná (UNESPAR), Brazil.
 
 ### I'm currently learning and seeking projects that uses:
 - Node.js
