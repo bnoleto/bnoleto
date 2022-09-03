@@ -22,5 +22,4 @@ I'm a Full-Stack developer, and currently working at Tata Consultancy Services L
 - Dogs
 
 ### How to reach me:
-- Discord: Phadiere#2223
 - LinkedIn: [See profile](https://www.linkedin.com/in/bnoleto/)
