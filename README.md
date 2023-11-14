@@ -3,9 +3,8 @@
 I'm a Full-Stack developer, and currently working at Tata Consultancy Services Ltd. I have Bachelor's degree in Computer Science, at State University of Paraná (UNESPAR), Brazil.
 
 ### I'm currently learning and seeking projects that uses:
-- Node.js
-- React.js
-- Flutter
+- .NET
+- Angular
 - REST APIs in general
 
 ### Some of the most interesting non-commercial projects I've worked are:
